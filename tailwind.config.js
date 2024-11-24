@@ -5,7 +5,31 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        zentry: ['Zentry', 'sans-serif'],
+        general: ['General', 'sans-serif'],
+        'circular-web': ['Circular Web', 'sans-serif'],
+        'robert-medium': ['Roboto Medium', 'sans-serif'],
+        'robert-regular': ['Roboto Regular', 'sans-serif'],
+      },
+      colors: {
+        blue: {
+          50: '#dfdff0',
+          75: '#dfdff2',
+          100: '#f0f2fa',
+          200: '#010101',
+          300: '#4fb7dd',
+        },
+        violet: {
+          300: '#5724ff'
+        },
+        yellow: {
+          100: '#8e983f',
+          300: '#edff66'
+        }
+      }
+    },
   },
   plugins: [],
 }
