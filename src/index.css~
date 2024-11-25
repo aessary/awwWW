@@ -5,7 +5,8 @@
 body {
     font-family: 'General Sans', sans-serif;
     width: 100dvw;
-    background-color: #;
+    background-color: #dfdff0;
+    overflow-x: hidden;
 
 }
 
@@ -32,3 +33,5 @@ body {
     }
 
 }
+
+@layer utilities
