@@ -44,47 +44,6 @@ I am creating a step-by-step documentation in OneNote and commiting on Github as
 This repository contains the code corresponding to an in-depth tutorial available on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube channel.
 
 
-## 💡 What I Learned
-
-##### **GSAP Animations**
-
-- Implemented advanced animations using GSAP (GreenSock Animation Platform)
-- Created scroll-triggered animations for dynamic user experiences
-- Managed timelines and tweens for smooth geometric transitions
-
-
-##### **Tailwind CSS**
-
-- Utilized a utility-first CSS framework for efficient styling
-- Customized themes and extended styles to match design requirements
-- Ensured responsive design across various devices with ease
-
-
-##### **React.js Development**
-
-- Built complex user interfaces with React.js
-- Managed state and props for dynamic content rendering
-- Leveraged React hooks and lifecycle methods for optimal performance
-
-
-##### **Responsive UI/UX Design**
-
-- Focused on delivering a luxurious, modern feel through engaging UI/UX
-- Designed smooth interfaces with intuitive user journeys
-- Ensured cross-device compatibility and responsiveness
-
-##### **Code Architecture and Reusability**
-
-- Structured code for maintainability and scalability
-- Created reusable components and modules
-- Followed best practices in code organization and documentation
-
-##### **Version Control with Git**
-
-- Cloned repositories and managed branches effectively.
-- Committed changes regularly to track progress.
-
-
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -489,9 +448,48 @@ export default RoundedCorners
 Assets used in the project can be found [here](https://drive.google.com/file/d/12hCVnanOAUmM1vzz2dTWZ_uEFGG8xDcT/view?usp=sharing)
 
 
-
-
 > This project uses some assets and fonts from **[Zentry](https://zentry.com/)** purely for educational and demonstration purposes. All rights to these assets and fonts belong to their respective owners. If you plan to use this project commercially or publicly, please replace these assets and fonts with ones you own or have permission to use. This project is not affiliated with or endorsed by **[Zentry](https://zentry.com/)**.
+
+## 💡 What I Learned
+
+##### **GSAP Animations**
+
+- Implemented advanced animations using GSAP (GreenSock Animation Platform)
+- Created scroll-triggered animations for dynamic user experiences
+- Managed timelines and tweens for smooth geometric transitions
+
+
+##### **Tailwind CSS**
+
+- Utilized a utility-first CSS framework for efficient styling
+- Customized themes and extended styles to match design requirements
+- Ensured responsive design across various devices with ease
+
+
+##### **React.js Development**
+
+- Built complex user interfaces with React.js
+- Managed state and props for dynamic content rendering
+- Leveraged React hooks and lifecycle methods for optimal performance
+
+
+##### **Responsive UI/UX Design**
+
+- Focused on delivering a luxurious, modern feel through engaging UI/UX
+- Designed smooth interfaces with intuitive user journeys
+- Ensured cross-device compatibility and responsiveness
+
+##### **Code Architecture and Reusability**
+
+- Structured code for maintainability and scalability
+- Created reusable components and modules
+- Followed best practices in code organization and documentation
+
+##### **Version Control with Git**
+
+- Cloned repositories and managed branches effectively.
+- Committed changes regularly to track progress.
+
 
 ## 🤝 Acknowledgments
 
