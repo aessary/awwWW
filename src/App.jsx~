@@ -1,14 +1,14 @@
 
 import React from 'react'
 import Hero  from "./components/Hero.jsx";
-import Hero2 from "./components/Hero2.jsx";
+
 
 const App = () => {
     return (
         <main className="relative min-h-screen w-screen overflow-x-hidden">
-            <Hero2 />
+
             <Hero />
-            <Hero2 />
+            <section className="z-0 min-h-screen"></section>
         </main>
             )
 
