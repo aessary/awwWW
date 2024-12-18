@@ -14,6 +14,38 @@
 <h3 align="center">An Awwwards Winning Website</h3>
 
 
+  <br />
+
+   <img src="https://github.com/user-attachments/assets/bf803d45-9ca1-43fa-a716-b1ceb8f5ae43" >
+  
+  <br /> 
+
+
+<br />
+   <img src="https://github.com/user-attachments/assets/6f1cb9c5-ac59-4e28-8db1-f427869e7e58" >
+ 
+  <br /> 
+
+ 
+ <br />
+   <img src="https://github.com/user-attachments/assets/ef0192de-549e-4901-9281-acadabaa89bc" >
+  
+  <br /> 
+
+ 
+  <br /> 
+   <img src="https://github.com/user-attachments/assets/8397440a-8645-4741-9608-a71407bb8ad6" >
+ 
+  <br /> 
+    <br /> 
+   <img src="https://github.com/user-attachments/assets/13f9bb17-6888-42a8-9ba3-efa390fb7352" >
+ 
+  <br /> <br />
+   <img src="https://github.com/user-attachments/assets/368cc139-616d-4359-a9cb-ecfba7de60f4" >
+ 
+  <br /> <br />
+
+
    <div align="center">
      In this repository, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a modern website inspired by Zentry, featuring scroll-triggered animations and geometric transitions.
 
