@@ -132,7 +132,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/r3ss1/awwWW.git
+git clone https://github.com/rr3s1/awwWW.git
 cd awwWW
 ```
 
