@@ -46,24 +46,17 @@
   <br /> <br />
 
 
-   <div align="center">
-     In this repository, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a modern website inspired by Zentry, featuring scroll-triggered animations and geometric transitions.
+<div align="center">
+   In this repository, I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to build a modern website inspired by Zentry, featuring scroll-triggered animations and geometric transitions.
 
+<br><br>
+    <a href="https://www.youtube.com/watch?v=zA9r5zTllx4&t=211s&ab_channel=JavaScriptMastery" target="_blank">Project Video</a>
+    <br>
+    <a href="https://github.com/adrianhajdin/award-winning-website.git" target="_blank">Project Source code</a><br><br>
 
+   </div>
+   </div>
 
-https://github.com/adrianhajdin
-</div>
-</div>
-
-## 📒 Original Repository
-
-[Awwwards Website](https://github.com/adrianhajdin/award-winning-website.git).
-
-
-
-## 🎥 Video Reference
-
-You can watch the tutorial here: [JavaScript Mastery Tutorial](https://www.youtube.com/watch?v=lEflo_sc82g&t=2776s&ab_channel=JavaScriptMastery).
 
 
 ## 📝 Documentation 
